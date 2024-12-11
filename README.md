@@ -1,4 +1,4 @@
-# Project Name
+# 3d Design
 
 ## Description
 This project involves the creation of a 3D video for the DEPI (Digital Education and Innovation Program), aimed at showcasing the advanced capabilities and educational impact of the program. Utilizing cutting-edge 3D modeling and animation technologies with Autodesk Maya and ZBrush, the video features intricately designed characters and dynamic environments that highlight the innovative spirit of DEPI.
